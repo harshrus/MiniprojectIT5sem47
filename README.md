@@ -1,1 +1,1 @@
-# MiniprojectIT5sem47
+Our E commerce Website is all about technical parts for example rasberry pi,aurdino etc.Parts like  Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse.This website enables users to see various technical parts at a low price and  they can also  add these parts as items in thier shopping cart in order to purchase.
