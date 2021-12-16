@@ -10,7 +10,7 @@ include('config/dbconn.php');
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="./assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Electricks</title>
+    <title>E commerce</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
@@ -176,21 +176,14 @@ include('config/dbconn.php');
             <div class="container">
                 <nav>
                     <ul>
-                        <li>
-                            <a href="" target="_blank">
-                                Creative ABC
-                            </a>
-                        </li>
-                        <li>
-                            Elective02
-                        </li>
+                    <li>Brought To You By <a href="https://www.arduino.cc/">Electronic Parts</a></li>
                     </ul>
                 </nav>
                 <div class="copyright">
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>, Designed and Coded by Serve(8) Web Solutions, Inc.
+                    </script>, Designed and Coded by Harsh Rustagi,Devansh tyagi,harsh vardhan, Inc.
                 </div>
             </div>
         </footer>
