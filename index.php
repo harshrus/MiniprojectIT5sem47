@@ -172,14 +172,7 @@ include('config/dbconn.php');
             <div class="container">
                 <nav>
                     <ul>
-                        <li>
-                            <a href="" target="_blank">
-                                Creative ABC
-                            </a>
-                        </li>
-                        <li>
-                            Elective02
-                        </li>
+                        <li>Brought To You By <a href="https://www.arduino.cc/">Electronic Parts</a></li>
                     </ul>
                 </nav>
                 <div class="copyright">
